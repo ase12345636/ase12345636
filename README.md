@@ -17,5 +17,5 @@ My research focuses on machine learning, particularly in natural language proces
 
 ## Leetcode Stats
 <div align="center">
-<img src=https://leetcard.jacoblin.cool/zjyx?theme=dark&font=M%20PLUS%202&ext=heatmap>
+<img src=https://leetcard.jacoblin.cool/zjyx?theme=dark&font=M%20PLUS%202&ext=heatmap alt="">
 </div>
