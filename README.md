@@ -8,6 +8,7 @@ My research focuses on machine learning, particularly in natural language proces
 ## My information
 - [Website](https://web.ntnu.edu.tw/~61447004s/)
 - [LinkedIn](https://www.linkedin.com/in/%E9%9B%B2%E7%BF%94-%E5%BC%B5%E7%B0%A1-407a06251)
+- [Hugging Face](https://huggingface.co/ase12345636)
 
 <!-- ## Github Stats
 <div align="center">
