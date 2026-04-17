@@ -1,7 +1,7 @@
 ## Hello, I'm Yun-Xiang.
 
 ## Vita
-I am a Master's student in the Department of Computer Science and Information Engineering, National Taiwan Normal University.
+I am a Master's student in the Department of Computer Science and Information Engineering, National Taiwan Normal University. Also is a joint program student in the Interdisciplinary Graduate School of Engineering Sciences, Kyushu University.
 
 My research focuses on machine learning, particularly in natural language processing and biomedical informatics.
 
